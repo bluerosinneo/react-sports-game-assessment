@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import Team from './components/team/Team';
 import Game from './components/game/Game';
 import './App.css';
 

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import '../../index.css';
 import Team from '../team/Team';
 import ScoreBoard from '../scoreboard/ScoreBoard'
